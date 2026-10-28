@@ -1,0 +1,1 @@
+Projeto de banco de dados relacional para administrar as informações de um resort fictício chamado **Resort Oasis**. O sistema organiza dados de hóspedes, acomodações, reservas, pagamentos, serviços disponíveis e consumo de serviços durante as hospedagens.
